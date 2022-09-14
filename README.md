@@ -32,6 +32,7 @@ to attach images
 
 # horizontal line tag
 - hr tag `<hr>`create horizontal line
+- The <hr> tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.
 
 # Attribute to tags
 - As you can see each tag have some attributes like src and href or like width height you can also give them styles. 
