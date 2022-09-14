@@ -73,4 +73,4 @@ WWF works in 100 countries and is supported by
 1.2 million members in the United States and
 close to 5 million globally.
 </blockquote>
-- `<blockquote>`
+- `blockquote` tag
