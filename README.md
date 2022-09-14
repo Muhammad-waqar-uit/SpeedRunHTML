@@ -42,7 +42,6 @@ to attach images
 - `<p style="color: red;"> a tag must be closed once open not every tag but most of them</p>`
 - title attributes gives more info when you hover over it `<p title='I am title.'></p>`
 
-<hr>
 
 <h1>Styles for the html</h1>
 - bacground-color 'for the text background'
