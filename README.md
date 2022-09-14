@@ -99,3 +99,5 @@ USA
  <p>The HTML 'bdo' tag is used to override the current text direction</p>
 
  <h1>'cite' tag	Defines the title of a work</h1>
+ 
+ html comments for this you have to see inside the readme file in edit mode <!-- Write your comments here -->
