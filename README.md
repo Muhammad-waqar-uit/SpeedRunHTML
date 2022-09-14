@@ -23,6 +23,14 @@ as the name its for writing text or paragraph
 to attach any links to particular line or word we use link tag
 - a tag `<a href=''></a>`  the href can have the url link
 <a href='https://www.w3schools.com/html'>w3schools</a>
+- The target attribute specifies where to open the linked document.
+
+The target attribute can have one of the following values:
+
+- _self - Default. Opens the document in the same window/tab as it was clicked
+- _blank - Opens the document in a new window or tab
+- _parent - Opens the document in the parent frame
+- _top - Opens the document in the full body of the window
 
 # Image tag 
 to attach images 
