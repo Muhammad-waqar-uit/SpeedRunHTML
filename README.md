@@ -47,3 +47,4 @@ to attach images
 <h1>Styles for the html</h1>
 - bacground-color 'for the text background'
 - color 'for text color'
+- Third item
