@@ -82,3 +82,15 @@ close to 5 million globally.
  abbr tag 'abbr with attribute title'
  <p>
  <abbr title="World Health Organization">WHO</abbr></p>
+
+ <h1>Addres tag</h1>
+ `address tag`
+ <p>The HTML address element defines contact information (author/owner) of a document or article.</p>
+
+<address>
+Written by John Doe.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
