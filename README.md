@@ -80,4 +80,5 @@ close to 5 million globally.
 
  <h1>Abbreviation tag</h1>
  abbr tag 'abbr with attribute title'
- <abbr title="World Health Organization">WHO</abbr>
+ <p>
+ <abbr title="World Health Organization">WHO</abbr></p>
