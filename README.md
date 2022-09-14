@@ -98,4 +98,4 @@ USA
  <h1> BDO tag bidirectonal override</h1>
  <p>The HTML 'bdo' tag is used to override the current text direction</p>
 
- <h1>'cite'	Defines the title of a work</h1>
+ <h1>'cite' tag	Defines the title of a work</h1>
