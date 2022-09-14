@@ -15,6 +15,9 @@ The heading can have different size that's why the heading tag has subtags like
 as the name its for writing text or paragraph
 - P tag `<p></p>`
 
+# Preformatted text tag
+- The HTML <pre> element defines preformatted text.The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks
+- `<pre></pre>`
 # HTML link tag
 to attach any links to particular line or word we use link tag
 - a tag `<a href=''></a>`  the href can have the url link
