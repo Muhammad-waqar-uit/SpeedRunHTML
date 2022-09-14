@@ -55,7 +55,7 @@ to attach images
 - <b> - Bold text `<b>`
 - <strong> - Important text `<strong>`
 - <i> - Italic text `<i>`
-- <em> - Emphasized text `<em>`
+- <em> - Emphasized text `<em>` em has the purpose of giving emphasis to the conten
 - <mark> - Marked text `<mark>`
 - <small> - Smaller text `<small>`
 - <del> - Deleted text `<del>`
