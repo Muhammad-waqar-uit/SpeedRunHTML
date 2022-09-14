@@ -15,7 +15,11 @@ The heading can have different size that's why the heading tag has subtags like
 as the name its for writing text or paragraph
 - P tag `<p></p>`
 
-# HTML links tag
+# HTML link tag
 to attach any links to particular line or word we use link tag
 - a tag `<a href=''></a>`  the href can have the url link
 <a href='https://www.w3schools.com/html'>w3schools</a>
+
+# Image tag 
+to attach images 
+- img tag `<img src='' alt='' width='' height=''>` alt is just the alternate if the src doesn't apear width and height just for the image size 
