@@ -44,7 +44,7 @@ to attach images
 - title attributes gives more info when you hover over it `<p title='I am title.'></p>`
 
 
-<h1>Styles for the html</h1>
+# Styles for the html
 - bacground-color 'for the text background' &
 - color 'for text color' &
 - 'for font' font-family & 
@@ -61,9 +61,9 @@ to attach images
 - <del> - Deleted text `<del>` deleted text 
 - <ins> - Inserted text `<ins>`defines a text that has been inserted into a document
 - <sub> - Subscript text `<sub>`defines subscript text like  H2O. `H<sub>2</sub>o`
-- <sup> - Superscript text `<sup>` defines superscript text like a^2 `a<sup>2</sup>`.
+- <sup> - Superscript text `<sup>` defines superscript text like a^2 `a<sup>2</sup>`
 
- <h1> bloackquote </h1>
+<h1> bloackquote </h1>
  - element defines a section that is quoted from another source.Browsers usually indent
  
  <blockquote cite="http://www.worldwildlife.org/who/index.html">
@@ -73,5 +73,4 @@ WWF works in 100 countries and is supported by
 1.2 million members in the United States and
 close to 5 million globally.
 </blockquote>
- <p>
- '<blockquote></blockquote>'<p>
+- `<blockquote>`
