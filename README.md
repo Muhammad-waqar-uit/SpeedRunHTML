@@ -56,9 +56,9 @@ to attach images
 - <strong> - Important text `<strong>`
 - <i> - Italic text `<i>`
 - <em> - Emphasized text `<em>` em has the purpose of giving emphasis to the conten
-- <mark> - Marked text `<mark>`
-- <small> - Smaller text `<small>`
-- <del> - Deleted text `<del>`
-- <ins> - Inserted text `<ins>`
-- <sub> - Subscript text `<sub>`
-- <sup> - Superscript text `<sup>`
+- <mark> - Marked text `<mark>` highlight word specific
+- <small> - Smaller text `<small>` it renders text within it one font-size smaller, such as from small to x-small
+- <del> - Deleted text `<del>` deleted text 
+- <ins> - Inserted text `<ins>`defines a text that has been inserted into a document
+- <sub> - Subscript text `<sub>`defines subscript text like  H2O. `H<sub>2</sub>o`
+- <sup> - Superscript text `<sup>` defines superscript text like a^2 `a<sup>2</sup>`.
