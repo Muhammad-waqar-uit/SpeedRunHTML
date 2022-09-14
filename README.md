@@ -16,7 +16,7 @@ as the name its for writing text or paragraph
 - P tag `<p></p>`
 
 # Preformatted text tag
-- The HTML <pre> element defines preformatted text.The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks</pre>
+- The HTML element defines preformatted text.The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.</pre>
 - `<pre></pre>`
 
 # HTML link tag
@@ -50,3 +50,15 @@ to attach images
 - 'for font' font-family & 
 - 'font size' font-size &
 - 'text alignment' text-align  
+
+# Basic tags for formating html
+- <b> - Bold text
+- <strong> - Important text
+- <i> - Italic text
+- <em> - Emphasized text
+- <mark> - Marked text
+- <small> - Smaller text
+- <del> - Deleted text
+- <ins> - Inserted text
+- <sub> - Subscript text
+- <sup> - Superscript text
