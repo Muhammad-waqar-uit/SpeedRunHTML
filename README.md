@@ -26,3 +26,7 @@ to attach images
 
 # line break tag
 - br tag `The <br> tag defines a line break, and is an empty element without a closing tag`
+
+# Attribute to tags
+- As you can see each tag have some attributes like src and href or like width height you can also give them styles. 
+- `<p style="color: red;"> a tag must be closed once open not every tag but most of them</p>`
