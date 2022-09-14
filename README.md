@@ -94,3 +94,6 @@ Example.com<br>
 Box 564, Disneyland<br>
 USA
 </address>
+
+ <h1> BDO tag bidirectonal override</h1>
+ <p>The HTML <bdo> tag is used to override the current text direction</p>
