@@ -45,3 +45,5 @@ to attach images
 <hr>
 
 <h1>Styles for the html</h1>
+- bacground-color 'for the text background'
+- color 'for text color'
