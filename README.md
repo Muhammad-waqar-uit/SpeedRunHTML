@@ -28,7 +28,11 @@ to attach images
 - br tag `The <br> tag defines a line break, and is an empty element without a closing tag`
 
 # bold tag
-- b tag <b>Bold</b> `<b></b>`
+- b tag <b>Bold</b> `<b></b>
+
+# horizontal line tag
+- hr tag `<hr>`create horizontal line
+
 # Attribute to tags
 - As you can see each tag have some attributes like src and href or like width height you can also give them styles. 
 - `<p style="color: red;"> a tag must be closed once open not every tag but most of them</p>`
