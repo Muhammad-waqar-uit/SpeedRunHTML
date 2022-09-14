@@ -23,3 +23,6 @@ to attach any links to particular line or word we use link tag
 # Image tag 
 to attach images 
 - img tag `<img src='' alt='' width='' height=''>` alt is just the alternate if the src doesn't apear width and height just for the image size 
+
+# line break tag
+- br tag `The <br> tag defines a line break, and is an empty element without a closing tag`
