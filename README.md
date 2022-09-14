@@ -10,3 +10,7 @@ The heading can have different size that's why the heading tag has subtags like
 - H4 `<h4></h4>` <h4>head tag 4rth</h4>
 - H5 `<h5></h5>` <h5>head tag fifth</h5>
 - H6 `<h6></h6>` <h6>head tag sixth</h6>
+
+# Now Paragraph tag
+as the name its for writing text or paragraph
+- P tag `<p></p>`
