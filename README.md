@@ -75,5 +75,5 @@ close to 5 million globally.
 </blockquote>
 - `blockquote` tag
 <h1> quote tag </h1>
- for small quote  q tag `<q></q>` 
+ for small quote  q tag `q` 
  <p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
