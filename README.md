@@ -77,3 +77,7 @@ close to 5 million globally.
 <h1> quote tag </h1>
  for small quote  q tag `q` 
  <p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+
+ <h1>Abbreviation tag</h1>
+ abbr tag 'abbr with attribute title'
+ <abbr title="World Health Organization">WHO</abbr>
