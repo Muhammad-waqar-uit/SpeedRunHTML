@@ -50,7 +50,8 @@ to attach images
 - 'for font' font-family & 
 - 'font size' font-size &
 - 'text alignment' text-align  
-
+- 'border' border
+- 
 # Basic tags for formating html
 - <b> - Bold text `<b>`
 - <strong> - Important text `<strong>`
