@@ -30,3 +30,4 @@ to attach images
 # Attribute to tags
 - As you can see each tag have some attributes like src and href or like width height you can also give them styles. 
 - `<p style="color: red;"> a tag must be closed once open not every tag but most of them</p>`
+- title attributes gives more info when you hover over it `<p title='I am title.'></p>`
