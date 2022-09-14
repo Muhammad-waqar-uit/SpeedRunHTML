@@ -43,4 +43,5 @@ to attach images
 - title attributes gives more info when you hover over it `<p title='I am title.'></p>`
 
 <hr>
-# styles HTML
+
+<h1>Styles for the html</h1>
