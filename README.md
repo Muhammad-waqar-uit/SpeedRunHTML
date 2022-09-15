@@ -113,7 +113,7 @@ USA
  [link](https://www.w3schools.com/html)
 
 <h1>Divider tag</h1>
-<p>Div tag `<div></div>`</p>
+<p>Div tag : create a space like box`</p>
 <ul> 
   <li>[Html attributes](https://www.w3schools.com/tags/ref_attributes.asp)</li>
   <li>[Event attributes](https://www.w3schools.com/tags/ref_eventattributes.asp)</li>
