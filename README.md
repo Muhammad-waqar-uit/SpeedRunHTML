@@ -111,8 +111,10 @@ USA
  
  html comments for this you have to see inside the readme file in edit mode <!-- Write your comments here -->
  [link](https://www.w3schools.com/html)
- <ul>
-  
+
+<h1>Divider tag</h1>
+<p>Div tag `<div></div>`</p>
+<ul> 
   <li>[Html attributes](https://www.w3schools.com/tags/ref_attributes.asp)</li>
   <li>[Event attributes](https://www.w3schools.com/tags/ref_eventattributes.asp)</li>
   <li>[audio/video dom](https://www.w3schools.com/tags/ref_av_dom.asp)</li>
