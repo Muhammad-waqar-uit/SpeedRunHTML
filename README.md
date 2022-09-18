@@ -109,6 +109,8 @@ USA
 
  <h1>'cite' tag	Defines the title of a work</h1>
  
+ <h1>The 'main' tag specifies the main content of a document. It shouldn't be repreated accross the document.</h1>
+ 
  html comments for this you have to see inside the readme file in edit mode <!-- Write your comments here -->
  [link](https://www.w3schools.com/html)
 
