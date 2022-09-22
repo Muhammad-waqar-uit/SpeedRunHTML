@@ -120,10 +120,11 @@ USA
 
 The <'span'> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
 
- <h1>Audio tag</h1>
- <p>To place audio sound require src attribute for source file and also data-key can be used to trigger it using data-key attribute for keyboard button.</p>
  
 The <'span'> tag is much like the <'div'> element, but <'div'> is a block-level element and <'span'> is an inline element.</p>
+ 
+ <h1>Audio tag</h1>
+ <p>To place audio sound require src attribute for source file and also data-key can be used to trigger it using data-key attribute for keyboard button.</p>
  html comments for this you have to see inside the readme file in edit mode <!-- Write your comments here -->
  [link](https://www.w3schools.com/html)
 
