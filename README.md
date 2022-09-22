@@ -111,6 +111,9 @@ USA
  
  <h1>The 'main' tag </h1>
  <p>specifies the main content of a document. It shouldn't be repreated accross the document.</p>
+ 
+ <h1>KBD Tag:keyboard input</h1>
+ <p>The 'kbd' tag is used to define keyboard input. The content inside is displayed in the browser's default monospace font.</p>
  html comments for this you have to see inside the readme file in edit mode <!-- Write your comments here -->
  [link](https://www.w3schools.com/html)
 
