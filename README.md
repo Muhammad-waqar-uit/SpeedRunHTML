@@ -114,6 +114,13 @@ USA
  
  <h1>KBD Tag:keyboard input</h1>
  <p>The 'kbd' tag is used to define keyboard input. The content inside is displayed in the browser's default monospace font.</p>
+ 
+ <h1>Span class</h1>
+ <p>The 'span' tag is an inline container used to mark up a part of a text, or a part of a document.
+
+The <'span'> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+
+The <'span'> tag is much like the <'div'> element, but <'div'> is a block-level element and <'span'> is an inline element.</p>
  html comments for this you have to see inside the readme file in edit mode <!-- Write your comments here -->
  [link](https://www.w3schools.com/html)
 
